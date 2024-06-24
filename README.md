@@ -1,4 +1,4 @@
-# Fetching_Largest_Companies_In_USA
+# Fetching Largest Companies In USA
 
 **1) Project:** <br>
 Analysis conducted to find the largest companies in the United States by revenue in 2023.<br><br>
